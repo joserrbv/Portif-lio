@@ -1,6 +1,6 @@
 const INFO = {
 	 main: {
-		title: "Portifólio",
+		title: "Jose Junio Torres Queiroz",
 		name: "Jose Queiroz",
 		email: "josequeiroz40@gmail.com",
 		logo: "../assets/logo.svg",
