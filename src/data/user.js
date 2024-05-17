@@ -13,7 +13,7 @@ const INFO = {
 		instagram: "https://instagram.com/",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
-		whatsapp:wa.me/5595991243646
+		whatsapp:"wa.me/5595991243646",
 	},
 
 	homepage: {
