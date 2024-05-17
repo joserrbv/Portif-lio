@@ -6,6 +6,7 @@ import {
 	faGithub,
 	faStackOverflow,
 	faInstagram,
+	faSquareWhatsapp
 } from "@fortawesome/free-brands-svg-icons";
 
 import Logo from "../../assets/logo.svg";
@@ -139,6 +140,16 @@ const Home = () => {
 							>
 								<FontAwesomeIcon
 									icon={faInstagram}
+									className="homepage-social-icon"
+								/>
+							</a>
+							<a
+								href={INFO.socials.whatsapp}
+								target="_blank"
+								rel="noreferrer"
+							>
+								<FontAwesomeIcon
+									icon={faSquareWhatsapp}
 									className="homepage-social-icon"
 								/>
 							</a>
